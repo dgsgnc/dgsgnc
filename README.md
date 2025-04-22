@@ -16,7 +16,7 @@ I'm **DOGUS**, a results-driven **Operations and Product Manager** with a passio
 
 ## Contact
 
-📫 How to reach me: Connect with me on [LinkedIn](your-linkedin-profile) or email me at **dogushgenc@gmail.com**.
+📫 How to reach me: Connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/do%C4%9Fu%C5%9F-gen%C3%A7-25878154/)) or email me at **dogushgenc@gmail.com**.
 
 ## Personal Info
 
