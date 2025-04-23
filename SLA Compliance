@@ -1,0 +1,14 @@
+### Automated Response Rules Implementation in Jira
+
+To address inefficiencies in issue resolution, I implemented **automated response rules** using **JQL (Jira Query Language)** in Jira. This strategic change led to several improvements:
+
+- **40% reduction in response time**
+- **Increased SLA compliance** from **78% to 91%**
+- Significant improvement in **resolution times** and **customer satisfaction**
+
+By automating repetitive tasks and triggering alerts, we were able to resolve issues more efficiently and meet service level agreements more effectively, ultimately driving better customer experiences.
+
+#### Example JQL Query:
+
+```JQL
+assignee = currentUser() AND status = "In Progress" AND created >= -1w ORDER BY created ASC
